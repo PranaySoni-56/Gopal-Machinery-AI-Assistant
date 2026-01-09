@@ -7,7 +7,7 @@
 
 ### Purpose
 
-The **Gopal Machinery AI Assistant** is a conversational AI chatbot built to support and automate customer interactions for **Gopal Machinery**, a sewing machine sales and repair business operating since **1999** in Sadar Bazaar, Begun, Chittorgarh, Rajasthan.
+The **Gopal Machinery AI Assistant** is a conversational AI chatbot built to support and automate customer interactions for **Gopal Machinery**, a sewing machine sales and repair business operating since **1999** 
 
 ### Problem Statement
 
