@@ -161,14 +161,7 @@ Controlled AI Response
 * Higher customer engagement
 * Reduced repetitive queries handled manually
 
-## 9. Contact and Credits
-
-### Business Owner
-
-**Gopal Machinery**
-
-Sadar Bazaar, Begun
-Chittorgarh, Rajasthan, India
+## 9. Credits
 
 ### Developer
 
